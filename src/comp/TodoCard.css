@@ -1,0 +1,4 @@
+.card-holder{border: 2px solid black;
+width: 100vh;
+display: flex;
+justify-content: center;}
